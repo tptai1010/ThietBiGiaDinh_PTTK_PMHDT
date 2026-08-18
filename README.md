@@ -14,8 +14,13 @@ Công ty kinh doanh thiết bị gia đình cần một giải pháp phần mề
 
 ## 3. Một vài sơ đồ thiết kế
 - **Sơ đồ usecase
+  
 <img width="919" height="732" alt="UseCaseDiagram" src="https://github.com/user-attachments/assets/a2500cbb-29b6-4790-a576-8eeb1f737c5d" />
+
 - **Sơ đồ lớp
+  
 <img width="812" height="899" alt="SoDoLop" src="https://github.com/user-attachments/assets/5a9f6377-66a3-4a00-ae41-bb91c6f2ee0a" />
+
 - **Lược đồ quan hệ
+  
 <img width="556" height="556" alt="LuocDoQH" src="https://github.com/user-attachments/assets/5607cbce-048d-475b-8dc8-5594671eb1f4" />
